@@ -1,4 +1,4 @@
-package homeWork3.Task1;
+package homeWork3.task1;
 
 /**
  * Created by macbookair on 21.02.16.

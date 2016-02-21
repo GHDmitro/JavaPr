@@ -1,4 +1,4 @@
-package homeWork3.Task1;
+package homeWork3.task1;
 
 import java.io.*;
 import java.util.concurrent.ConcurrentHashMap;
