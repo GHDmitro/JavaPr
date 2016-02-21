@@ -8,7 +8,7 @@ import java.net.URL;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import homeWork2.tryTask.Rate;
+import dklmv.task2Simple.Rate;
 
 public class Main {
 

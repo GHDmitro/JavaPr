@@ -1,6 +1,6 @@
 package lesson2;
 
-import homeWork2.tryTask.Query;
+import dklmv.task2Simple.Query;
 
 public class JSON {
     public Query query;
