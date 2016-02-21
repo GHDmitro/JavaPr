@@ -1,4 +1,4 @@
-package les3;
+package lesson3;
 
 import java.io.*;
 import java.util.List;

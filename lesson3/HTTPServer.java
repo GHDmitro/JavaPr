@@ -1,4 +1,4 @@
-package les3;
+package lesson3;
 
 public class HTTPServer {
     private int port;

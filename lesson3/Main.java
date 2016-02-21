@@ -1,4 +1,4 @@
-package les3;
+package lesson3;
 
 import java.lang.Thread;
 
@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        final HTTPServer server = new HTTPServer(8080, "/Users/macbookair/IdeaProjects/JavaPro/src/les3");//каталог где у нас лежит index.html
+        final HTTPServer server = new HTTPServer(8080, "/Users/macbookair/IdeaProjects/JavaPro/src/lesson3");//каталог где у нас лежит index.html
         server.start();
 
         System.out.println("Server started...");
