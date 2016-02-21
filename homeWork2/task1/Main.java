@@ -1,4 +1,4 @@
-package dklmv.task1;
+package homeWork2.task1;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
@@ -24,7 +24,7 @@ public class Main {
 
         try {
 //            /Users/macbookair/IdeaProjects/JavaPro/src/homeWork2/
-            File file = new File("dklmv");
+            File file = new File("homeWork2");
             JAXBContext context = JAXBContext.newInstance(Trains.class);
 
             Marshaller marshaller = context.createMarshaller();

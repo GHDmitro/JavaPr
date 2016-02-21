@@ -1,4 +1,4 @@
-package dklmv.task2;
+package homeWork2.task2;
 
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;

@@ -1,7 +1,5 @@
-package dklmv.task1;
+package homeWork2.task1;
 
-
-import dklmv.task1.Train;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

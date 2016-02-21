@@ -1,7 +1,5 @@
-package dklmv.task2Simple;
+package homeWork2.task2Simple;
 
-
-import dklmv.task2Simple.Query;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
