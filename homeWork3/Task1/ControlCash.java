@@ -1,4 +1,4 @@
-package homeWork3.task1;
+package homeWork3.Task1;
 
 /**
  * Created by macbookair on 21.02.16.
@@ -6,7 +6,7 @@ package homeWork3.task1;
 public class ControlCash {
 
     public static void main(String[] args) throws InterruptedException {
-        String pathOfPage = "/Users/macbookair/IdeaProjects/JavaPro/src/homeWork3/task1";
+        String pathOfPage = "/Users/macbookair/IdeaProjects/JavaPro/src/homeWork3/Task1";
 
         FileManager fm = new FileManager(pathOfPage);
         for (int i = 0; i < 5; i++) {
